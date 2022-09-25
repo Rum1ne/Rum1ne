@@ -12,7 +12,7 @@
 <img  src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
 
-<h4>You better be laughing `cause <a href="https://readme-jokes.vercel.app/api">they</a> were trying their hard to creat it(well i suppose)</h4>
+<h4>You better be laughing `cause <a target="_blank" href="https://readme-jokes.vercel.app/api">they</a> were trying their hard to creat it(well i suppose)</h4>
 
 <h3>And at the end of this <i>beautiful</i> representation just look at this kitten</h3>
 
