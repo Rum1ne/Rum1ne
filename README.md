@@ -10,7 +10,6 @@
 <h3> And now, one more perfect joke:</h3>
 
 <img  src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
-
 <h4>You better be laughing `cause github was trying its best to creat it(well i suppose)</h4>
 
 <h3>And at the end of this <i>beautiful</i> representation just look at this kitten</h3>
